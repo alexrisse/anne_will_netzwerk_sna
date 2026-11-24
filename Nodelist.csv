@@ -1,0 +1,32 @@
+id,name,sex,type,party,sector,country
+lk,Lars Klingbeil,2,1,SPD,Politik,Deutschland
+uvdl,Ursula von der Leyen,1,1,"CDU, EU",Politik,Deutschland
+nr,Norbert Röttgen,2,1,CDU,Politik,Deutschland
+sw,Sahra Wagenknecht,1,1,Linke,Politik,Deutschland
+cs,Constanze Stelzenmüller,1,1,The Brookings Institution Washington D.C.,Recht,Deutschland
+cl,Christian Lindner,2,1,FDP,Politik,Deutschland
+ks,Karl Schlögel,2,1,,Geschichte,Deutschland
+lm,Ljudmyla Melynk,1,1,Institut für Europäische Politik,Politikwissenschaft,Ukraine
+kd,Kristina Dunz,1,1,Redaktionsnetzwerk Deutschland,Journalismus,Deutschland
+el,Egils Levits,2,1,Lettische SSR,Politik,Lettland
+ab,Annalena Baerbock,1,1,Bündnis90/Die Grünen,Politik,Deutschland
+ft,Frans Timmermans,2,1,Europäische Kommission,Politik,Niederlande
+am,Andrij Melynk,2,1,ukrainische Botschaft in Deutschland,Diplomatie,Ukraine
+agl,Alexander Graf Lambsdorff,2,1,FDP,Politik,Deutschland
+er,Egon Ramms,2,1,Bundeswehr,Militär,Deutschland
+rh,Robert Habeck,2,1,Bündnis90/Die Grünen,Politik,Deutschland
+cm,Claudia Major,1,1,Stiftung Wissenschaft und Politik,Politikwissenschaft,Deutschland
+kp,Katja Petrowskaja,1,1,,Journalismus,Ukraine
+rk,Roderich Kiesewetter,2,1,CDU,Politik,Deutschland
+spd,SPD,,2,,,
+cdu,CDU,,2,,,
+linke,Linke,,2,,,
+fdp,FDP,,2,,,
+gruene,Bündnis90/Die Grüne,,2,,,
+bundeswehr,Bundeswehr,,2,,,
+eu,EU,,2,,,
+aw,Anne Will,1,1,,Moderation,Deutschland
+500,Folge 20.02,,,,,
+501,Folge 27.02,,,,,
+502,Folge 06.03,,,,,
+503,Folge 13.03,,,,,
